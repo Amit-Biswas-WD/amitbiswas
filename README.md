@@ -1,49 +1,48 @@
-<!-- 🔥 Animated Banner -->
+<!-- 🔥 Top Animated Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Amit%20Biswas&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:141E30,100:243B55&height=250&section=header&text=Amit%20Biswas&fontSize=45&fontColor=ffffff&animation=fadeIn&stroke=ffffff" />
 </p>
 
 <!-- 🔥 Typing Animation -->
-<h1 align="center">
-  Hi 👋, I'm Amit Biswas
-</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;React+%7C+Next.js+Developer;MERN+Stack+Developer;Love+Clean+UI+%26+UX" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🚀+Frontend+Developer;⚡+React+%7C+Next.js+Expert;🔥+MERN+Stack+Developer;💡+Clean+UI%2FUX+Lover" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🚀 Passionate Frontend & MERN Stack Developer  
-- 💡 Love building modern, scalable web apps  
-- 🌱 Currently learning **advanced backend & system design**  
-- 🎯 Goal: Become a **top 1% developer**
+<img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+- 🚀 Passionate Frontend & Full Stack Developer  
+- 💻 Building modern & scalable web apps  
+- 🌱 Learning **advanced backend & system design**  
+- 🎯 Target: Become a **top-tier developer**  
+- ⚡ Focus: Clean code + beautiful UI  
 
 ---
 
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux,nodejs,express,mongodb&theme=dark" />
 </p>
 
 ---
 
-## 🧰 Tools
+## 🧰 Tools & Environment
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,figma&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Glass Style)
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Amit-Biswas-WD&show_icons=true&theme=tokyonight&border_radius=10" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-Biswas-WD&layout=compact&theme=tokyonight&border_radius=10" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
 ---
@@ -51,7 +50,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Amit-Biswas-WD&theme=tokyonight&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
 ---
@@ -59,7 +58,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amit-Biswas-WD&theme=tokyo-night&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&area=true&hide_border=true" />
 </p>
 
 ---
@@ -67,7 +66,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amit-Biswas-WD&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -75,7 +74,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:amitbiswas9282@gmail.com">
+  <a href="mailto:your-email@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="#">
@@ -88,31 +87,31 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects (Premium Cards Style)
 
 ### 🔹 Project 1
-- ⚡ Modern React App  
-- 🔗 Live Demo | GitHub Repo  
+🚀 React / Next.js App  
+🔗 Live Demo | Repo Link  
 
 ### 🔹 Project 2
-- 💡 Full Stack MERN App  
-- 🔗 Live Demo | GitHub Repo  
+💡 Full Stack MERN App  
+🔗 Live Demo | Repo Link  
 
 ### 🔹 Project 3
-- 🌐 Next.js Project  
-- 🔗 Live Demo | GitHub Repo  
+🌐 Modern UI Project  
+🔗 Live Demo | Repo Link  
 
 ---
 
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amit-Biswas-WD&color=blueviolet&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=0e75b6&style=flat-square" />
 </p>
 
 ---
 
-<!-- 🔥 Footer Wave -->
+<!-- 🔥 Animated Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
 </p>
