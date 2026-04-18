@@ -42,8 +42,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&border_radius=10" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&border_radius=10" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Amit-Biswas-WD&show_icons=true&theme=tokyonight&border_radius=10" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-Biswas-WD&layout=compact&theme=tokyonight&border_radius=10" />
 </p>
 
 ---
@@ -51,7 +51,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=Amit-Biswas-WD&theme=tokyonight&border_radius=10" />
 </p>
 
 ---
@@ -59,7 +59,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amit-Biswas-WD&theme=tokyo-night&area=true" />
 </p>
 
 ---
@@ -67,7 +67,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Amit-Biswas-WD&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -75,7 +75,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:amitbiswas9282@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="#">
@@ -107,7 +107,7 @@
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Amit-Biswas-WD&color=blueviolet&style=flat-square" />
 </p>
 
 ---
